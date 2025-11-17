@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*hdf5
+*.pkl
+conversion_output.txt
+test_charges.py
+tmp.py
